@@ -6,7 +6,7 @@ With a goal-oriented attitude and a good eye to detail, I believe in analyzing a
 
 My goal is to design or build your website and web application the way you want it and I will work closely with you every step of the way to achieve the best possible results. Thank you very much to all the clients who have been with me. 
 
-## 🛠️ Skills
+## 🛠️ Skill
 
 ### Languages
 
