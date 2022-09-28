@@ -1,6 +1,7 @@
 <!-- Introduction -->
 
 <p align="left">
+
 - 👀 I’m interested in AI💻, Blockchain⛓, Mobile and Web application📲.
 
 - 🌱 I’m currently learning Machine learning and its application, and using Blockchain for financial markets.
