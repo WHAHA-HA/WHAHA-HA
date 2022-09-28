@@ -1,10 +1,9 @@
 # Hi, there 👋
 
-With rich experience in full-stack development, I have held various positions as managing partner, and employee. I specialize in clean, modern, visually appealing frontend and backend development, but my core focuses are also usability and functionality. All my works are in step with modern technology. Also, I am working as a Blockchain developer as well.
-
-With a goal-oriented attitude and a good eye to detail, I believe in analyzing and understanding clients’ requirements. Also, my consistent and uninterrupted efforts to provide my clients with tailored solutions, utilizing my skills and experience in the best possible way has furnished me with favorable reviews.
-
-My goal is to design or build your website and web application the way you want it and I will work closely with you every step of the way to achieve the best possible results. Thank you very much to all the clients who have been with me. 
+- 👀 I’m interested in AI💻, Blockchain⛓, Mobile and Web application📲, Robots🤖 and Aerospace Engineering🚀.
+- 🌱 I’m currently learning Machine learning and its application, and using Blockchain for financial markets.
+- 💞️ I’m looking to collaborate on various interesting projects that come on my way especially in Ecommerce and Blockchain.
+- 📫 To reach out to me you can email me at kingsman00127@gmail.com
 
 <!-- Light Mode -->
 
