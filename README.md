@@ -1,4 +1,4 @@
-# Hi, there 👋
+<h2 align="center">Hi, there 👋</h2>
 
 With rich experience in full-stack development, I have held various positions as managing partner, and employee. I specialize in clean, modern, visually appealing frontend and backend development, but my core focuses are also usability and functionality. All my works are in step with modern technology. Also, I am working as a Blockchain developer as well.
 
@@ -6,7 +6,13 @@ With a goal-oriented attitude and a good eye to detail, I believe in analyzing a
 
 My goal is to design or build your website and web application the way you want it and I will work closely with you every step of the way to achieve the best possible results. Thank you very much to all the clients who have been with me. 
 
-## 🛠️ Skills
+<h2 align="center">GITHUB STATS</h2>
+
+<p align="center"> <img href="https://github.com/WHAHA-HA"> <img href="https://github.com/WHAHA-HA" src="https://metrics.lecoq.io/WHAHA-HA" alt="Github Metrics"> </p>
+
+<p align="center"> <a href="https://github.com/WHAHA-HA"><img src="https://github-profile-trophy.vercel.app/?username=WHAHA-HA" alt="TOPMAN" /></a> </p>
+
+<h2 align="center">SKILLS</h2>
 
 ### Languages
 
