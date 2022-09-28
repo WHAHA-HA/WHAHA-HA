@@ -1,4 +1,4 @@
-<h2 align="center">Hi, there 👋</h2>
+# Hi, there 👋
 
 With rich experience in full-stack development, I have held various positions as managing partner, and employee. I specialize in clean, modern, visually appealing frontend and backend development, but my core focuses are also usability and functionality. All my works are in step with modern technology. Also, I am working as a Blockchain developer as well.
 
@@ -6,13 +6,29 @@ With a goal-oriented attitude and a good eye to detail, I believe in analyzing a
 
 My goal is to design or build your website and web application the way you want it and I will work closely with you every step of the way to achieve the best possible results. Thank you very much to all the clients who have been with me. 
 
-<h2 align="center">GITHUB STATS</h2>
+<!-- Light Mode -->
 
-<p align="center"> <img href="https://github.com/WHAHA-HA"> <img href="https://github.com/WHAHA-HA" src="https://metrics.lecoq.io/WHAHA-HA" alt="Github Metrics"> </p>
+<div align="center"> 
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+<img height=200 src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=WHAHA-HA&layout=compact&langs_count=10&hide_border=1&role=OWNER,COLLABORATOR#gh-light-mode-only" alt="Language stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+<img height=200 src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=WHAHA-HA&show_icons=true&count_private=true&line_height=28&hide_border=1&include_all_commits=true&card_width=450&role=OWNER,COLLABORATOR&exclude_repo=github-readme-stats#gh-light-mode-only" alt="Github stats" />
+</a>
+</div>
+
+<!-- Dark Mode -->
+
+<div align="center"> 
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+<img height=200 src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=WHAHA-HA&layout=compact&langs_count=10&hide_border=1&role=OWNER,COLLABORATOR&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Language stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+<img height=200 src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=WHAHA-HA&show_icons=true&count_private=true&line_height=28&hide_border=1&include_all_commits=true&card_width=450&role=OWNER,COLLABORATOR&exclude_repo=github-readme-stats&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Github stats" />
+</a>
+</div>
 
 <p align="center"> <a href="https://github.com/WHAHA-HA"><img src="https://github-profile-trophy.vercel.app/?username=WHAHA-HA" alt="TOPMAN" /></a> </p>
-
-<h2 align="center">SKILLS</h2>
 
 ### Languages
 
