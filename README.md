@@ -2,7 +2,7 @@
 ## 👋 Hi, I am TOPMAN
 <p align="left">
 
-- 👀 I’m interested in AI💻, Blockchain⛓, Mobile and Web application📲.
+- 👀 I’m interested in **AI💻, Blockchain⛓, Mobile and Web application📲**.
 
 - 🌱 I’m currently learning Machine learning and its application, and using Blockchain for financial markets.
 
@@ -19,9 +19,9 @@
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
 <img height=200 src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=WHAHA-HA&layout=compact&langs_count=10&hide_border=1&role=OWNER,COLLABORATOR#gh-light-mode-only" alt="Language stats" />
 </a>
-<!-- <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
 <img height=200 src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=WHAHA-HA&show_icons=true&count_private=true&line_height=28&hide_border=1&include_all_commits=true&card_width=450&role=OWNER,COLLABORATOR&exclude_repo=github-readme-stats#gh-light-mode-only" alt="Github stats" />
-</a> -->
+</a>
 </div>
 
 <!-- Dark Mode -->
@@ -30,9 +30,9 @@
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
 <img height=200 src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=WHAHA-HA&layout=compact&langs_count=10&hide_border=1&role=OWNER,COLLABORATOR&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Language stats" />
 </a>
-<!-- <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
 <img height=200 src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=WHAHA-HA&show_icons=true&count_private=true&line_height=28&hide_border=1&include_all_commits=true&card_width=450&role=OWNER,COLLABORATOR&exclude_repo=github-readme-stats&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Github stats" />
-</a> -->
+</a>
 </div>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=WHAHA-HA" alt="TOPMAN" /></a> </p> -->
