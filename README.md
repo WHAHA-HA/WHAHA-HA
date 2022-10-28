@@ -8,7 +8,7 @@
 
 - 💞️ I’m looking to collaborate on various interesting projects that come on my way especially in Ecommerce and Blockchain.
 
-- 👔 Proficiency: **React, Vue, Angular, JavaScript, TypeScript and TailWindCSS**
+- 👔 Proficiency: **MERN/MEAN/MEVN Stack, Laravel, Python and Ruby on Rails**
 
 - ✉️ To reach out to me you can email me at kingsman00127@gmail.com
 </p>
